@@ -1,2 +1,2 @@
-# Quadratic-equation
-A code to perform quadratic equations
+# Multiplication table
+A code to display the multiplication timestable
